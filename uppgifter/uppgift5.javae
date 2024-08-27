@@ -1,0 +1,20 @@
+
+public class uppgift5 {
+
+    public static void main(String args[]) {
+        int student = 75;
+        if( 90<=student);{
+                System.out.println("grade 5, good job!");
+        } else if(80<=student){
+                System.out.println("grade 4, well done");
+        } else if(70<=student){
+                System.out.println("grade 3, avrage");
+        } else if(60<=student){
+                 System.out.println("grade 2, try harder!");
+        } else if(25<=student){
+                 System.out.println("grade 1, you're horibble");
+        }else {
+                 System.out.println("grade 0, homeless");
+                 }
+    }
+}
