@@ -3,7 +3,7 @@ public class uppgift5 {
 
     public static void main(String args[]) {
         int student = 75;
-        if( 90<=student);{
+        if( 90<=student){
                 System.out.println("grade 5, good job!");
         } else if(80<=student){
                 System.out.println("grade 4, well done");
