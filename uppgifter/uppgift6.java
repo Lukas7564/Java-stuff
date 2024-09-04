@@ -3,11 +3,10 @@ public class upgift6 {
 
     public static void main(String args[]) {
     boolean lightOn = false;
-    boolean lightOf = true;
-    if (lightOn){
-        System.out.println("light is on");
-    }else {
+    if (lightOn==false){
         System.out.println("light is of");
+    }else {
+        System.out.println("light is on");
     }
     }
 }
